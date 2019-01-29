@@ -1,0 +1,8 @@
+:root {
+--color-primary:black;
+--color-primary-dark:#A0A0A0;
+--color-primary-light:#707070;
+
+--font-primary:"Roboto Mono", monospace;
+--font-secondary:"Roboto", sans-serif;;
+}
